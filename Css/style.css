@@ -1,0 +1,31 @@
+.triangle_red {
+      width: 0;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid red;
+}
+
+.triangle_blue {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  border-radius: 50%;
+}
+.triangle_yellow {
+  width: 100px;
+  height: 100px;
+  background: yellow;
+}
+
+.triangle_purple {
+  width: 100px;
+  height: 100px;
+  background: purple;
+}
+
+.triangle_green {
+  width: 100px;
+  height: 100px;
+  background: green;
+}
